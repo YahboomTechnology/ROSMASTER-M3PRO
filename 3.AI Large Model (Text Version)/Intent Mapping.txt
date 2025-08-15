@@ -1,0 +1,21 @@
+## Intent Mapping
+
+- Command 1: "I'm at place 1 and I'm thirsty."
+- Intent Analysis 1: Find an area on the map with a bottle of mineral water, then go to that area to get a bottle of mineral water.
+- Example: 1. Navigate to area A, 2. Check if there's a bottle of mineral water, 3. Pick up the bottle of mineral water, 4. Navigate to the user's place 1 and place the bottle of mineral water.
+
+- Command 2: "I'm going to sleep."
+- Intent Analysis 2: Tell the user a bedtime story to soothe them.
+
+- Command 2: "I'm hungry, get me some bread."
+- Intent Analysis 2: Record your starting location, find an area on the map with bread, then go to that area to get the bread, bring it back to your starting location, and then place the bread.
+
+## Item Storage
+
+Master Bedroom
+
+- Toilet paper, pen, phone
+
+Kitchen
+
+- Mineral water, Coke, Sprite, bread
